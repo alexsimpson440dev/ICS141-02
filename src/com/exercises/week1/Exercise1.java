@@ -2,7 +2,7 @@ package com.exercises.week1;
 import java.util.Scanner;
 
 public class Exercise1 {
-    public static void main(String[]args) {
+    public static void main(String[] args) {
         Scanner Input = new Scanner(System.in);
         // 1: First, the white space is different when defining the variables
         // Second, the defined integer VAL1 should be lowercase as this is closer to a constant naming convention
@@ -26,10 +26,24 @@ public class Exercise1 {
         // get user input 3 and set to input3
         // if input1 > input2
             // if input1 > input3
-                // return input1
-        // else if input2 > input3
-            // return input2
+                // print input1
+        // if input2 > input3
+            // print input2
         // else
-            // return input3
+            // print input3
+
+        if (userInputInt1 > userInputInt2) {
+            if (userInputInt1 > userInputInt3) {
+                System.out.println("The highest input is: " + userInputInt1);
+            }
+        }
+
+        if (userInputInt2 > userInputInt3) {
+            System.out.println("The highest input is: " + userInputInt2);
+        }
+
+        else {
+            System.out.println("The highest input is: " + userInputInt3);
+        }
     }
 }
