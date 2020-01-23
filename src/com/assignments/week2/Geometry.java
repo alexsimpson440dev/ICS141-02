@@ -35,6 +35,5 @@ public class Geometry {
         else {
             System.out.println("Point (" +userXVal+", "+userYVal+") is within the Rectangle.");
         }
-
     }
 }
