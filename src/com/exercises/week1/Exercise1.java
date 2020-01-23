@@ -32,13 +32,11 @@ public class Exercise1 {
         // else
             // print input3
 
-        if (userInputInt1 > userInputInt2) {
-            if (userInputInt1 > userInputInt3) {
-                System.out.println("The highest input is: " + userInputInt1);
-            }
+        if (userInputInt1 > userInputInt2 && userInputInt1 > userInputInt3) {
+            System.out.println("The highest input is: " + userInputInt1);
         }
 
-        if (userInputInt2 > userInputInt3) {
+        else if (userInputInt2 > userInputInt3) {
             System.out.println("The highest input is: " + userInputInt2);
         }
 
