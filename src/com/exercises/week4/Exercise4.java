@@ -6,7 +6,7 @@ public class Exercise4 {
 
         for (int i = 0; i < matrix.length; i++) {
             for (int t = 0; t < matrix[i].length; t++) {
-                matrix[i][t] = (int) Math.round(Math.random()*100);
+                matrix[i][t] = (int) (Math.random()*100);
                 System.out.print(matrix[i][t] + " ");
             }
         }
