@@ -18,6 +18,7 @@ public class Assignment3 {
     public static void statsDisplay(int[] arr) {
         int evenCount = 0;
         int oddCount = 0;
+        int one = 1;
         double total = 0;
 
         for(int i = 0; i < arr.length; i++) {
