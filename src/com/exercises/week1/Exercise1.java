@@ -15,8 +15,8 @@ public class Exercise1 {
         System.out.println("Integer 3:");
         int userInputInt3 = input.nextInt();
 
-        int multipliedIntegers = userInputInt1 * userInputInt2;
-        int finalResult = multipliedIntegers - userInputInt3;
+//        int multipliedIntegers = userInputInt1 * userInputInt2;
+        int finalResult = (userInputInt1 - userInputInt2) - (userInputInt1 - userInputInt2) % userInputInt3;
 
         System.out.println("The final result is: " + finalResult);
 
@@ -32,16 +32,16 @@ public class Exercise1 {
         // else
             // print input3
 
-        if (userInputInt1 > userInputInt2 && userInputInt1 > userInputInt3) {
-            System.out.println("The highest input is: " + userInputInt1);
-        }
-
-        else if (userInputInt2 > userInputInt3) {
-            System.out.println("The highest input is: " + userInputInt2);
-        }
-
-        else {
-            System.out.println("The highest input is: " + userInputInt3);
-        }
+//        if (userInputInt1 > userInputInt2 && userInputInt1 > userInputInt3) {
+//            System.out.println("The highest input is: " + userInputInt1);
+//        }
+//
+//        else if (userInputInt2 > userInputInt3) {
+//            System.out.println("The highest input is: " + userInputInt2);
+//        }
+//
+//        else {
+//            System.out.println("The highest input is: " + userInputInt3);
+//        }
     }
 }

@@ -11,5 +11,8 @@ public class Dog extends Pet {
     public void print() {
         super.print();
         System.out.println("Breed: " + this.breed);
+        for(;;) {
+            
+        }
     }
 }
