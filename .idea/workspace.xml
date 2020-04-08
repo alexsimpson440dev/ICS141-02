@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ab73c891-ee4a-4da1-81e1-9f33c612a75c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ICS141-02/com/exercises/week7/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ICS141-02/com/exercises/week7/Cat.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +53,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Lab6">
-    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.assignments.week4.Account" />
+  <component name="RunManager" selected="Application.Assignment6">
+    <configuration name="Assignment6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignments.assignment6.Assignment6" />
       <module name="ICS141-02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.assignments.week4.*" />
+          <option name="PATTERN" value="com.assignments.assignment6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Assignment6" />
         <item itemvalue="Application.Lab6" />
         <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.Pound" />
-        <item itemvalue="Application.Account" />
       </list>
     </recent_temporary>
   </component>
@@ -144,25 +143,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="414" key="GridCell.Tab.0.bottom" timestamp="1586315167416">
+    <state x="773" y="291" key="#com.intellij.ide.util.MemberChooser" timestamp="1586317128208">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="414" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586315167416" />
+    <state x="773" y="291" key="#com.intellij.ide.util.MemberChooser/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586317128208" />
+    <state width="1878" height="414" key="GridCell.Tab.0.bottom" timestamp="1586382033795">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1878" height="414" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586382033795" />
     <state width="1878" height="414" key="GridCell.Tab.0.bottom/1920.23.2560.1417/0.0.1920.1200@0.0.1920.1200" timestamp="1585923897351" />
-    <state width="1878" height="414" key="GridCell.Tab.0.center" timestamp="1586315167414">
+    <state width="1878" height="414" key="GridCell.Tab.0.center" timestamp="1586382033794">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="414" key="GridCell.Tab.0.center/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586315167414" />
+    <state width="1878" height="414" key="GridCell.Tab.0.center/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586382033794" />
     <state width="1878" height="414" key="GridCell.Tab.0.center/1920.23.2560.1417/0.0.1920.1200@0.0.1920.1200" timestamp="1585923897350" />
-    <state width="1878" height="414" key="GridCell.Tab.0.left" timestamp="1586315167413">
+    <state width="1878" height="414" key="GridCell.Tab.0.left" timestamp="1586382033793">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="414" key="GridCell.Tab.0.left/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586315167413" />
+    <state width="1878" height="414" key="GridCell.Tab.0.left/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586382033793" />
     <state width="1878" height="414" key="GridCell.Tab.0.left/1920.23.2560.1417/0.0.1920.1200@0.0.1920.1200" timestamp="1585923897349" />
-    <state width="1878" height="414" key="GridCell.Tab.0.right" timestamp="1586315167415">
+    <state width="1878" height="414" key="GridCell.Tab.0.right" timestamp="1586382033794">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="414" key="GridCell.Tab.0.right/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586315167415" />
+    <state width="1878" height="414" key="GridCell.Tab.0.right/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586382033794" />
     <state width="1878" height="414" key="GridCell.Tab.0.right/1920.23.2560.1417/0.0.1920.1200@0.0.1920.1200" timestamp="1585923897350" />
   </component>
   <component name="antWorkspaceConfiguration">
