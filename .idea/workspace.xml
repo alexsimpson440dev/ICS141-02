@@ -53,26 +53,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Exercise8">
+  <component name="RunManager" selected="Application.Lab7">
     <configuration name="Assignment6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.assignments.assignment6.Assignment6" />
       <module name="ICS141-02" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.assignments.assignment6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercises.week1.Exercise1" />
-      <module name="ICS141-02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exercises.week1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.labs.lab7.Lab7" />
+      <module name="ICS141-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.labs.lab7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab7" />
         <item itemvalue="Application.Exercise8" />
         <item itemvalue="Application.Assignment6" />
         <item itemvalue="Application.Lab6" />
         <item itemvalue="Application.Exercise7" />
-        <item itemvalue="Application.Exercise1" />
       </list>
     </recent_temporary>
   </component>
@@ -143,29 +143,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="773" y="291" key="#com.intellij.ide.util.MemberChooser" timestamp="1586909085345">
+    <state x="773" y="291" key="#com.intellij.ide.util.MemberChooser" timestamp="1586979552228">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="773" y="291" key="#com.intellij.ide.util.MemberChooser/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586909085345" />
-    <state width="1878" height="414" key="GridCell.Tab.0.bottom" timestamp="1586786671696">
+    <state x="773" y="291" key="#com.intellij.ide.util.MemberChooser/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586979552228" />
+    <state width="1878" height="414" key="GridCell.Tab.0.bottom" timestamp="1586913012686">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="414" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586786671696" />
+    <state width="1878" height="414" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586913012686" />
     <state width="1878" height="414" key="GridCell.Tab.0.bottom/1920.23.2560.1417/0.0.1920.1200@0.0.1920.1200" timestamp="1585923897351" />
-    <state width="1878" height="414" key="GridCell.Tab.0.center" timestamp="1586786671695">
+    <state width="1878" height="414" key="GridCell.Tab.0.center" timestamp="1586913012684">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="414" key="GridCell.Tab.0.center/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586786671695" />
+    <state width="1878" height="414" key="GridCell.Tab.0.center/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586913012684" />
     <state width="1878" height="414" key="GridCell.Tab.0.center/1920.23.2560.1417/0.0.1920.1200@0.0.1920.1200" timestamp="1585923897350" />
-    <state width="1878" height="414" key="GridCell.Tab.0.left" timestamp="1586786671694">
+    <state width="1878" height="414" key="GridCell.Tab.0.left" timestamp="1586913012683">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="414" key="GridCell.Tab.0.left/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586786671694" />
+    <state width="1878" height="414" key="GridCell.Tab.0.left/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586913012683" />
     <state width="1878" height="414" key="GridCell.Tab.0.left/1920.23.2560.1417/0.0.1920.1200@0.0.1920.1200" timestamp="1585923897349" />
-    <state width="1878" height="414" key="GridCell.Tab.0.right" timestamp="1586786671696">
+    <state width="1878" height="414" key="GridCell.Tab.0.right" timestamp="1586913012685">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1878" height="414" key="GridCell.Tab.0.right/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586786671696" />
+    <state width="1878" height="414" key="GridCell.Tab.0.right/1920.0.2560.1440/0.0.1920.1200@0.0.1920.1200" timestamp="1586913012685" />
     <state width="1878" height="414" key="GridCell.Tab.0.right/1920.23.2560.1417/0.0.1920.1200@0.0.1920.1200" timestamp="1585923897350" />
   </component>
   <component name="antWorkspaceConfiguration">
